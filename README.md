@@ -6,4 +6,4 @@ A playable experience demonstrating the thought process of someone with ADHD and
 
 
 ![A Shopping Trip](astw.png)
-![A Shopping Trip](05.png) ![A Shopping Trip](04.png)
+![A Shopping Trip](04.png)
